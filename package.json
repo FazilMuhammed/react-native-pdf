@@ -38,7 +38,8 @@
     "@react-native-community/progress-bar-android": "^1.0.4",
     "@react-native-community/progress-view": "^1.0.3",
     "crypto-js": "^3.2.0",
-    "prop-types": "^15.7.2"
+    "prop-types": "^15.7.2",
+    "rn-fetch-blob": "^0.12.0"
   },
   "deprecated": false,
   "description": "A react native PDF view component, support ios and android platform",
